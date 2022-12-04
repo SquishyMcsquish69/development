@@ -1,38 +1,108 @@
+/* Add styling for your page here */
+
 .App {
-  text-align: center;
+  margin: 5%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  color: black;
+  background-color: rgb(255, 227, 175);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.card-name {
+    padding-right: 3%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.inline h2, p {
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+}
+
+.CartItem {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  width: 100%;
+  padding: 1%;
+  margin-bottom: 0.5rem;
+  border-radius: 10px;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12);
+}
+
+.cart-img {
+  width: 100px;
+  height: 100px;
+  padding: 0.5rem;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+}
+
+.dropdown {
+  margin: auto;
+}
+
+h1 {
+  font-size: 48px;
+  margin-block-start: 0.5rem;
+  margin-block-end: 0.5rem;
+}
+
+h2 {
+    font-size: large;
+}
+
+.header {
+  width: 100%;
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.inline {
+  display: flex;
+  align-items: baseline;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.ItemCard {
+  max-width: 200px;
+  padding: 1%;
+  margin: 0.5rem;
+  border-radius: 10px;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.main {
+  display: flex;
+}
+
+.navbar {
+  padding: 0% 1% 0% 1%;
+}
+
+.piggy-img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.section1 {
+  padding: 2rem;
+  width: 80%;
+}
+
+.section2 {
+  width: 20%;
+  padding: 2rem;
+}
+
+img {
+  width: 100%;
 }

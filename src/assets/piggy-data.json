@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Sir Pigglington",
+    "age": 18,
+    "image": "images/pigglington.jpg",
+    "distance": 5.4,
+    "gender": "male",
+    "colors": ["brown"],
+    "key": 0
+  },
+  {
+    "name": "Pigball Wizard",
+    "age": 9,
+    "image": "images/elton.jpg",
+    "distance": 26.3,
+    "gender": "male",
+    "colors": ["brown", "white", "multi"],
+    "key": 1
+  },
+  {
+    "name": "Piggy Hadid",
+    "age": 48,
+    "image": "images/piggy_hadid.jpg",
+    "distance": 0.2,
+    "gender": "female",
+    "colors": ["brown", "white", "multi"],
+    "key": 2
+  },
+  {
+    "name": "Meatball",
+    "age": 14,
+    "image": "images/meatball.jpg",
+    "distance": 9.8,
+    "gender": "female",
+    "colors": ["black", "white", "multi"],
+    "key": 3
+  },
+  {
+    "name": "Junior",
+    "age": 1,
+    "image": "images/piggy_jr.jpg",
+    "distance": 50.2,
+    "gender": "male",
+    "colors": ["brown"],
+    "key": 4
+  },
+  {
+    "name": "Bruschetta",
+    "age": 24,
+    "image": "images/bruschetta.jpg",
+    "distance": 2.1,
+    "gender": "female",
+    "colors": ["brown", "white", "multi"],
+    "key": 5
+  },
+  {
+    "name": "Charles",
+    "age": 72,
+    "image": "images/charles.jpg",
+    "distance": 6.7,
+    "gender": "male",
+    "colors": ["brown", "white", "multi"],
+    "key": 6
+  },
+  {
+    "name": "Mama Pig",
+    "age": 36,
+    "image": "images/mama_pig.jpg",
+    "distance": 5.0,
+    "gender": "female",
+    "colors": ["black", "brown", "white", "multi"],
+    "key": 7
+  },
+  {
+    "name": "Coconut",
+    "age": 8,
+    "image": "images/miss_piggy.jpg",
+    "distance": 0.8,
+    "gender": "female",
+    "colors": ["brown", "black"],
+    "key": 8
+  },
+  {
+    "name": "Fabio",
+    "age": 60,
+    "image": "images/megapig.jpg",
+    "distance": 1.2,
+    "gender": "male",
+    "colors": ["brown"],
+    "key": 9
+  },
+  {
+    "name": "Cristiano Pigaldo",
+    "age": 120,
+    "image": "images/cristiano_pigaldo.jpg",
+    "distance": 76.4,
+    "gender": "male",
+    "colors": ["brown", "black", "white", "multi"],
+    "key": 10
+  },
+  {
+    "name": "Theo",
+    "age": 12,
+    "image": "images/theo.jpg",
+    "distance": 6.0,
+    "gender": "female",
+    "colors": ["brown", "white"],
+    "key": 11
+  }
+]
